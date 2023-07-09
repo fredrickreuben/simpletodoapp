@@ -39,7 +39,7 @@ Once the app is running, you can perform the following actions:
    - Click the delete button or perform a delete action to remove a todo from the list.
 
 ## App Link
-To access the Simple ReactJs TodoApp, [click here](https://example.com/todo-app).
+To access the Simple ReactJs TodoApp, [click here](https://simpletodoapp-swart.vercel.app).
 
 ## Contributing
 Contributions to the Simple ReactJs TodoApp are welcome. If you wish to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](simpletodoapp/blob/main/CONTRIBUTING.md) file.
